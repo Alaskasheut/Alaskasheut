@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alma-rosa-morales-fiesco/)
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Alaskasheut1&color=00cf00" alt=""/>
