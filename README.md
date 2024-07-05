@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+Hi there!
+
+Alma, as a professional dedicated to QA testing I am currently 
+
+I 
 <!--
 **Alaskasheut/Alaskasheut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
