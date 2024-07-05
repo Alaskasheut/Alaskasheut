@@ -2,6 +2,8 @@
   <img decoding="async" src="https://github.com/Alaskasheut/Alaskasheut/blob/678afed098f3eb385688810a847d0c7f13d495b7/alma_morales_banner.png" width="800"/>
 </div>
 
+#
+#
 Hi there!
 
 My name is Alma, and I'm a QA Engineer and Informatics student. I'm currently learning frameworks like Selenium WebDriver to automate tests and also enhancing my Python skills.
@@ -37,16 +39,15 @@ I'm still new to the tech world, and it would be a pleasure to collaborate with 
 
 </div>
 
-
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alaskasheut&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaskasheut&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Alaskasheut/github-readme-stats)
 
 
 <h3> Let's connect </h3>
 
 <p align="center"> 
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:alma.testing.route@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
