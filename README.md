@@ -28,7 +28,7 @@ I’m also passionate about learning languages, alphabets, and cultures.
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
-   <img decoding="async" src="https://img.shields.io/badge/Android-Studio-green%3Flogo%3Dandroidstudio?style=flat-square&logo=androidstudio&color=green" alt="Android_Studio"/>
+   <img decoding="async" src="hhttps://img.shields.io/badge/Android-Studio-green%3Flogo%3Dandroidstudio?style=for-the-badge&logo=androidstudio&color=green" alt="Android_Studio"/>
   </a>
   <img decoding="async" src="https://img.shields.io/badge/Selenium_Webdriver-122392?style=for-the-badge&logo=Selenium_Webdriver&logoColor=white" alt="Selenium_Webdriver"/>
   </a>
