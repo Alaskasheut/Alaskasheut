@@ -6,7 +6,7 @@
 #
 Hi there!
 
-My name is Alma, and I’m a geologist. I am interested in a broad range of topics, but my main goal is to work on projects where I can integrate my field experience with data science and finance in exploration projects.
+My name is Alma, and I’m a geologist. I am interested in a broad range of topics, but my main goal is to work on projects where I can integrate my field experience in new projects. Also, I enjoy working in interdisciplinary teams.
 
 
 Fav day 🎃!
