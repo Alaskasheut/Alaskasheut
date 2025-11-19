@@ -36,7 +36,12 @@ I’m also passionate about learning languages, alphabets, and cultures.
   </a>
   <img decoding="async" src="https://img.shields.io/badge/AutoCAD-red%3Flogo%3Dautocad?style=for-the-badge&logo=autocad&color=red" alt="AutoCAD"/>
   </a>
+  <img decoding="async" src="https://img.shields.io/badge/Leapfrog-Geo-green%3Flogo%3Dleapfroggeo?style=for-the-badge&logo=leaofroggeo&color=green" alt="LeapfrogGeo"/>
+  </a>
+  
+
  
+
 
 
 </div>
