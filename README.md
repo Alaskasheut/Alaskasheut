@@ -6,14 +6,12 @@
 #
 Hi there!
 
-My name is Alma, and I'm a QA Engineer and Informatics student. I'm currently learning frameworks like Selenium WebDriver to automate tests and also enhancing my Python skills.
-
-I'm working on my own testing projects. I'm looking to collaborate on a team to demonstrate and sharpen my skills by contributing to new projects. 
+My name is Alma, and I’m a geologist. I am interested in a broad range of topics, but my main goal is to work on projects where I can integrate my field experience with data science and finance in exploration projects.
 
 
 Fav day 🎃!
 
-I'm still new to the tech world, and it would be a pleasure to collaborate with you or share ideas. Feel free to contact me!
+I’m also passionate about learning languages, alphabets, and cultures.
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alma-rosa-morales-fiesco/)
 
