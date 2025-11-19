@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="Alma_Morales_banner.png width="800"/>
+  <img decoding="async" src="https://github.com/Alaskasheut/Alaskasheut/blob/c7cf3cb85b31961979c3f808e44aa3f30ef59c60/Alma_Morales_banner.png" width="800"/>
 </div>
 
 #
