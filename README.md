@@ -34,8 +34,7 @@ I’m also passionate about learning languages, alphabets, and cultures.
   </a>
   <img decoding="async" src="https://img.shields.io/badge/QGis-green%3Flogo%3Dqgis?style=for-the-badge&logo=qgis&color=green" alt="QGis"/>
   </a>
-
-  <img decoding="async" src="https://img.shields.io/badge/AutoCAD-red%3Flogo%3DAutocad?logo=autocad&color=red" alt="AutoCAD"/>
+  <img decoding="async" src="https://img.shields.io/badge/AutoCAD-red%3Flogo%3Dautocad?style=for-the-badge&logo=autocad&color=red" alt="AutoCAD"/>
   </a>
  
 
