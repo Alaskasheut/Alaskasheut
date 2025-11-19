@@ -28,11 +28,11 @@ I’m also passionate about learning languages, alphabets, and cultures.
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Postman-E78607?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-  </a>
    <img decoding="async" src="https://img.shields.io/badge/Android_Studio-129410?style=for-the-badge&logo=Android_Studio&logoColor=white" alt="Android_Studio"/>
   </a>
   <img decoding="async" src="https://img.shields.io/badge/Selenium_Webdriver-122392?style=for-the-badge&logo=Selenium_Webdriver&logoColor=white" alt="Selenium_Webdriver"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Selenium_Webdriver-122392?style=for-the-badge&logo=Selenium_Webdriver&logoColor=white" alt="QGis"/>
   </a>
 
 </div>
@@ -47,5 +47,5 @@ I’m also passionate about learning languages, alphabets, and cultures.
 <h3> Let's connect </h3>
 
 <p align="center"> 
-&nbsp; <a href="mailto:alma.testing.route@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:earth.soulscience@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
