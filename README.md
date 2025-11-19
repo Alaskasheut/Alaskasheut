@@ -32,8 +32,10 @@ I’m also passionate about learning languages, alphabets, and cultures.
   </a>
   <img decoding="async" src="https://img.shields.io/badge/Selenium_Webdriver-122392?style=for-the-badge&logo=Selenium_Webdriver&logoColor=white" alt="Selenium_Webdriver"/>
   </a>
-  <img decoding="async" src="https://img.shields.io/badge/Selenium_Webdriver-122392?style=for-the-badge&logo=Selenium_Webdriver&logoColor=white" alt="QGis"/>
+  <img decoding="async" src=" https://img.shields.io/badge/AutoCAD-red%3Flogo%3DAutocad?logo=autocad&color=red" alt="AutoCAD"/>
   </a>
+ 
+
 
 </div>
 
